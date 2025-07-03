@@ -388,9 +388,9 @@ export default function App() {
                     darkMode ? "text-gray-300" : "text-gray-600"
                   }`}
                 >
-                  Passionate about building scalable, high-performance web applications using modern technologies like the MERN stack. <br />
-                  I specialize in crafting intuitive user experiences, real-time systems, <br />
-                  and impactful digital solutions that drive both usability and innovation across sectors like education and aerospace.
+                 Full-stack developer specializing in the MERN stack, real-time systems, and 3D visualization.
+                <br />I build efficient, scalable solutions for education and aerospace, turning ideas into functional software. 
+                <br />Let’s create something impactful.
 
                 </p>
               </FadeIn>
