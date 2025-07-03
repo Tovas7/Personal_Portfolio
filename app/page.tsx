@@ -596,11 +596,13 @@ export default function App() {
             <StaggerContainer className="space-y-12" staggerDelay={0.3}>
               {[
                 {
-                  title: "Senior Full Stack Developer",
-                  company: "TechCorp Solutions",
-                  period: "2022 - Present",
+                  title: "Software Engineer ",
+                  company: "Gafat Aeropspace Engineering Development Center",
+                  period: "2022 - 2025",
                   description:
-                    "Leading development of enterprise-scale applications serving 100K+ users. Architected microservices infrastructure reducing system latency by 40%. Mentoring junior developers and establishing best practices.",
+                    "Designed and implemented robust backend architectures and RESTful APIs to support critical aerospace research initiatives",
+                    "Developed high-fidelity 3D simulation systems to enable advanced data visualization and real-time analysis",
+                    "Engineered cloud-native solutions to optimize operational workflows and enhance system scalability.",
                   technologies: ["React", "Node.js", "AWS", "Docker", "TypeScript"],
                 },
                 {
