@@ -613,14 +613,6 @@ export default function App() {
                     "Developed and maintained multiple client projects using modern web technologies. Implemented CI/CD pipelines improving deployment efficiency by 60%. Collaborated with cross-functional teams to deliver pixel-perfect designs.",
                   technologies: ["Next.js", "Express", "MongoDB", "GraphQL", "Tailwind CSS"],
                 },
-                {
-                  title: "Frontend Developer",
-                  company: "StartupXYZ",
-                  period: "2019 - 2020",
-                  description:
-                    "Built responsive web applications from concept to deployment. Optimized application performance achieving 95+ Lighthouse scores. Worked closely with UX/UI designers to implement intuitive user interfaces.",
-                  technologies: ["React", "Redux", "Sass", "Webpack", "Jest"],
-                },
               ].map((job, index) => (
                 <StaggerItem key={index}>
                   <div className="relative pl-8 pb-12 border-l-2 border-blue-200 dark:border-blue-800 last:pb-0">
