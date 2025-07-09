@@ -687,7 +687,7 @@ export default function App() {
                 title: "Podcastify- Podcast Publishing Platform",
                 description:
                   " A Next.js-powered podcast hosting platform that streamlines content creation with AI-powered publishing tools, seamless cross-platform distribution to Spotify/Apple/Google, and actionable real-time analytics for creators",
-                image: "/placeholder.svg?height=400&width=600",
+                image: "https://www.google.com/imgres?q=Podcastify-%20Podcast%20Publishing%20Platform%20images&imgurl=https%3A%2F%2Fhelloaudio.fm%2Fwp-content%2Fuploads%2F2024%2F05%2FTop-10-Podcast-Platforms-for-Distribution-Monetization-Video-and-More-1-1024x683.png&imgrefurl=https%3A%2F%2Fhelloaudio.fm%2Fpodcast-platforms%2F&docid=ynadzu_v7kFXFM&tbnid=XpWPv9Bd_6z_2M&vet=12ahUKEwiA24uohLCOAxU20wIHHX2-GqwQM3oECHMQAA..i&w=1024&h=683&hcb=2&ved=2ahUKEwiA24uohLCOAxU20wIHHX2-GqwQM3oECHMQAA?height=400&width=600",
                 tags: ["Next.js", "PostgreSQL", "TypeScript", "Tailwind CSS", "Supabase"],
                 demo: "#",
                 github: "#",
@@ -697,7 +697,7 @@ export default function App() {
                 title: "SendSwift - File Sharing System",
                 description:
                   "A React Native file-sharing app enabling offline P2P transfers, self-destructing files, and decentralized storage for secure, internet-independent sharing",
-                image: "/placeholder.svg?height=400&width=600",
+                image: "https://www.google.com/imgres?q=File%20Sharing%20System%20images&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1570184671%2Fphoto%2Fperson-holding-digital-tablet-with-cloud-storage-security-concept.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DNap8gDH3RMLu1XFZD_CQD7hQl4kiss_26nz2wDkHqcI%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ffile-sharing&docid=HEyzfryjpiC0sM&tbnid=H01favF0Czy7bM&vet=12ahUKEwiPx83QhLCOAxU1ywIHHSGUHkcQM3oECCYQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwiPx83QhLCOAxU1ywIHHSGUHkcQM3oECCYQAA?height=400&width=600",
                 tags:["React Native", "Node.js", "PostgreSQL", "IPFS", "WebRTC"],
                 demo: "#",
                 github: "#",
@@ -707,7 +707,7 @@ export default function App() {
                 title: "TripPlanner -  AI-powered travel assistant",
                 description:
                   "Transform trip planning with AI-curated itineraries tailored to your budget, interests, and travel style—all in one app.",
-                image: "/placeholder.svg?height=400&width=600",
+                image: "https://www.google.com/imgres?q=AI-powered%20travel%20assistant%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fai-powered-travel-assistant-ready-take-you-unforgettable-journey-futuristic-robot-with-luggage-eiffel-tower-background_856795-84734.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fai-powered-travel-assistant-ready-take-you-unforgettable-journey-futuristic-robot-with-luggage-eiffel-tower-background_324240601.htm&docid=KCmUIIUZOCwAPM&tbnid=fuLsv4m13D_G1M&vet=12ahUKEwjHp5vshLCOAxWjzQIHHQ4VItoQM3oECB0QAA..i&w=626&h=626&hcb=2&ved=2ahUKEwjHp5vshLCOAxWjzQIHHQ4VItoQM3oECB0QAA?height=400&width=600",
                 tags: ["Next.js", "TypeScript", "Firebase", "Tailwind CSS"],
                 demo: "#",
                 github: "https://github.com/Tovas7/TripPlanner",
@@ -724,13 +724,13 @@ export default function App() {
                 featured: false,
               },
               {
-                title: "",
+                title: "NeatBot- File Automation Tool",
                 description:
-                  "A sophisticated weather application with AI-powered forecasting, location-based alerts, and beautiful data visualizations for weather enthusiasts.",
+                  "A Python-based desktop automation tool that intelligently organizes files, eliminates duplicates, and maintains data integrity through non-destructive operations and automated backups",
                 image: "/placeholder.svg?height=400&width=600",
-                tags: ["React Native", "Redux", "Weather API", "Machine Learning"],
+                tags: ["Python", "PyQt", "File Automation", "Data Integrity", "Desktop App"],
                 demo: "#",
-                github: "#",
+                github: "https://github.com/Tovas7/NeatBot",
                 featured: false,
               },
               {
