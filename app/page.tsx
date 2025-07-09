@@ -684,33 +684,33 @@ export default function App() {
           <StaggerContainer className="grid md:grid-cols-2 lg:grid-cols-3 gap-8" staggerDelay={0.2}>
             {[
               {
-                title: "Enterprise E-Commerce Platform",
+                title: "Podcastify- Podcast Publishing Platform",
                 description:
-                  "A comprehensive online marketplace with advanced features including real-time inventory management, multi-vendor support, and integrated payment processing serving 50K+ daily users.",
+                  " A Next.js-powered podcast hosting platform that streamlines content creation with AI-powered publishing tools, seamless cross-platform distribution to Spotify/Apple/Google, and actionable real-time analytics for creators",
                 image: "/placeholder.svg?height=400&width=600",
-                tags: ["React", "Node.js", "MongoDB", "Stripe", "AWS"],
+                tags: ["Next.js", "PostgreSQL", "TypeScript", "Tailwind CSS", "Supabase"],
                 demo: "#",
                 github: "#",
                 featured: true,
               },
               {
-                title: "Project Management Suite",
+                title: "SendSwift - File Sharing System",
                 description:
-                  "A collaborative project management application with real-time updates, advanced analytics, and team collaboration tools. Increased team productivity by 35%.",
+                  "A React Native file-sharing app enabling offline P2P transfers, self-destructing files, and decentralized storage for secure, internet-independent sharing",
+                image: "/placeholder.svg?height=400&width=600",
+                tags:["React Native", "Node.js", "PostgreSQL", "IPFS", "WebRTC"],
+                demo: "#",
+                github: "#",
+                featured: true,
+              },
+              {
+                title: "TripPlanner -  AI-powered travel assistant",
+                description:
+                  "Transform trip planning with AI-curated itineraries tailored to your budget, interests, and travel style—all in one app.",
                 image: "/placeholder.svg?height=400&width=600",
                 tags: ["Next.js", "TypeScript", "Firebase", "Tailwind CSS"],
                 demo: "#",
-                github: "#",
-                featured: true,
-              },
-              {
-                title: "Financial Analytics Dashboard",
-                description:
-                  "An interactive dashboard for financial data visualization with real-time market data, custom reporting, and predictive analytics capabilities.",
-                image: "/placeholder.svg?height=400&width=600",
-                tags: ["React", "D3.js", "Express", "PostgreSQL", "Docker"],
-                demo: "#",
-                github: "#",
+                github: "https://github.com/Tovas7/TripPlanner",
                 featured: false,
               },
               {
@@ -724,7 +724,7 @@ export default function App() {
                 featured: false,
               },
               {
-                title: "Weather Intelligence App",
+                title: "",
                 description:
                   "A sophisticated weather application with AI-powered forecasting, location-based alerts, and beautiful data visualizations for weather enthusiasts.",
                 image: "/placeholder.svg?height=400&width=600",
