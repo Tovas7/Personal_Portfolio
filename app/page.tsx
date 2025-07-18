@@ -433,7 +433,7 @@ export default function App() {
                     transition={{ duration: 4, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
                   />
                   <motion.img
-                    src="/placeholder.svg?height=600&width=600"
+                    src="/public/Profile 1.jpg?height=600&width=600"
                     alt="Muluken Zewdu - Software Engineer"
                     className="relative rounded-2xl shadow-2xl max-w-full h-auto object-cover"
                     whileHover={{ scale: 1.02 }}
@@ -480,7 +480,7 @@ export default function App() {
                     transition={{ duration: 5, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
                   />
                   <motion.img
-                    src="/placeholder.svg?height=500&width=600"
+                    src="/public/Profile 2.jpg?height=500&width=600"
                     alt="Muluken Zewdu working"
                     className="relative rounded-2xl shadow-2xl w-full h-auto object-cover"
                     whileHover={{ scale: 1.02 }}
